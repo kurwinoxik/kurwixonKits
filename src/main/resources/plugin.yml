@@ -1,0 +1,7 @@
+name: kurwixonKits
+version: 1.0
+author: kurwixon
+main: me.kurwixon.kits.KitPlugin
+
+commands:
+  kit:
